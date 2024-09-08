@@ -1,2 +1,2 @@
-# .github
-Insanios.
+# Insanios GitHub
+Not much to see here.
